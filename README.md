@@ -4,6 +4,6 @@ An intelligent system for classifying news as real or fake using NLP and machine
 # Steps to run the program 
 - Download the dataset from kaggle for fake news classification
 - Download the glove 6b . 100 file (size 89 mb currently) as it containes the words in 100 dimentonal vectors
-- import the libraries run the code
-- make sure the above are completed before running the code failing to download might cause errors
+- Import the libraries run the code
+- Make sure the above are completed before running the code failing to download might cause errors
   
